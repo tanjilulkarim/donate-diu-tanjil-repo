@@ -6,7 +6,7 @@ body {
 }
 
 .top-banner {
-    background-image: url("/images/hero.png");
+    background-image: url("images/hero.png");
     height: 600px;
     background-position: center;
     background-repeat: no-repeat;
