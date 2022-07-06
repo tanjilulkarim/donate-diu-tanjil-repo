@@ -193,12 +193,9 @@ input[type=email] {
     /* margin-right: 20%; */
 }
 
-.image img {
+/* volunters */
 
-    height: 200px;
-    width: 200px;
-    margin-right: 30px;
-}
+
 
 
 .about-us {
@@ -229,6 +226,22 @@ input[type=email] {
     padding-left: 10px;
 }
 
+
+/* volunters */
+.image-volunter {
+    display: flex;
+    margin-left: 200px;
+    /* margin-right: 20%; */
+}
+
+.image img {
+
+    height: 200px;
+    width: 200px;
+    margin-right: 30px;
+}
+
+/* volunters */
 
 
 /* footer */
