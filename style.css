@@ -94,9 +94,6 @@ body {
     outline: none;
 }
 
-
-
-
 .input-field input {
 
     background-color: transparent;
@@ -109,11 +106,6 @@ body {
     padding-right: 200px;
 
 }
-
-/* hr {
-    font-size: 10px;
-    color: red;
-} */
 
 
 /* section plan 03 */
@@ -146,57 +138,7 @@ body {
 }
 
 
-
-/* update section */
-.manual-donate {
-    display: flex;
-    text-align: center;
-    background-color: rgba(242, 249, 184, 0.338);
-    padding: 50px;
-    margin-top: -40px;
-    margin-left: 20%;
-    margin-right: 20%;
-    width: 60%;
-
-}
-
-input[type=email] {
-    width: 20%;
-    padding: 13px 80px;
-    margin-left: 120px;
-    border-radius: 5px;
-    outline: none;
-    border: none;
-    background-color: rgb(223, 216, 216);
-    /* box-sizing: border-box; */
-}
-
-#speacial-input {
-    border-top-right-radius: 0px;
-    border-bottom-right-radius: 0px;
-}
-
-#speacial-buttoon {
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
-}
-
-
-
-
-
-
-/* volunters */
-.image-volunter {
-    display: flex;
-    margin-left: 200px;
-    /* margin-right: 20%; */
-}
-
-/* volunters */
-
-
-
+/* section about-us */
 
 .about-us {
     display: flex;
@@ -244,6 +186,44 @@ input[type=email] {
 /* volunters */
 
 
+
+/* update subacribe section */
+.subscribe {
+    display: flex;
+    text-align: center;
+    background-color: rgba(242, 249, 184, 0.338);
+    padding: 50px;
+    margin-top: -40px;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+
+}
+
+
+
+input[type=email] {
+    width: 20%;
+    padding: 13px 80px;
+    margin-left: 120px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: rgb(223, 216, 216);
+    /* box-sizing: border-box; */
+}
+
+#speacial-input {
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+#speacial-buttoon {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+
 /* footer */
 footer {
     text-align: center;
@@ -263,5 +243,5 @@ footer {
 
     letter-spacing: 0.5px;
 
-    color: #FF5959;
+    color: #097a49;
 }
